@@ -6,7 +6,7 @@
 * **Enseignants:** [Nassim Belmecheri](mailto:nassim.belmecheri@umontpellier.fr), [Nadjib Lazaar](mailto:nadjib.lazaar@umontpellier.fr), [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr), [Petru Valicov](mailto:petru.valicov@umontpellier.fr) 
 * Le [forum Piazza](https://piazza.com/class/kek1cuqz3ep7o) de ce cours pour poser vos questions
 * [Email](mailto:petru.valicov@umontpellier.fr) pour une question d'ordre privée concernant le cours.
-* Le [sujet du TP corrigé](TD2_Correction.pdf) en format .pdf téléchargeable et imprimable.
+* Le [sujet du TP](TD2.pdf) en format .pdf téléchargeable et imprimable.
 
 ### Sujet : Analyse et conception de service de scolarité
 
