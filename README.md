@@ -19,7 +19,7 @@ Nous souhaitons faire une analyse et une conception OO détaillées et sous diff
 
 * Chaque cours est affecté à des enseignants. Ceci est réalisé par un chargé de cours, qui est également un enseignant. Dans le cadre d'un cours, les enseignants peuvent créer un devoir (homework), corriger et attribuer des points ainsi qu’un avis sur les rendus des étudiants. 
 
-* Le chargé de cours définit quel enseignant évalue quel devoir. À la fin du cours, le chargé de cours organise également la remise des certificats. La note d'un étudiant est calculée en fonction du nombre total de points obtenus des devoirs remis.
+* Le chargé de cours définit quel enseignant évalue quel rendu. À la fin du cours, le chargé de cours organise également la remise des certificats. La note d'un étudiant est calculée en fonction du nombre total de points obtenus des devoirs remis.
 
 * Les étudiants peuvent suivre des cours et télécharger les devoirs.
 
