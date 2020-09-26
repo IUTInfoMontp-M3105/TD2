@@ -8,6 +8,9 @@
 * [Email](mailto:petru.valicov@umontpellier.fr) pour une question d'ordre privée concernant le cours.
 * Le [sujet du TP](TD2.pdf) en format .pdf téléchargeable et imprimable.
 
+**Cliquez sur le lien ci-dessous pour faire votre fork privé du TD :**
+https://classroom.github.com/a/7QtmFfsL
+
 ### Sujet : Analyse et conception de service de scolarité
 
 
