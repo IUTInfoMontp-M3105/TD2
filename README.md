@@ -33,30 +33,33 @@ Nous souhaitons faire une analyse et une conception OO détaillées et sous diff
 
 ### Phase 1 : Analyse
 
-- A l’aide d’UML, modélisez les acteurs et les cas d'utilisation de la spécification ci-dessus.
+**Question 1 :** A l’aide d’UML, modélisez les acteurs et les cas d'utilisation de la spécification ci-dessus.
  
-- Réalisez un diagramme de classes d’analyse.
+**Question 2 :** Réalisez un diagramme de classes d’analyse.
 
 ### Phase 2 : Conception
 
 Les cas d'utilisation et le diagramme de classes issus de la phase d’analyse ne sont généralement pas suffisamment détaillés pour la mise en œuvre réelle du système. Nous allons maintenant mettre en évidence les exigences auxquelles le système doit répondre.  Pour cela, nous allons zoomer sur le système et modéliser son comportement.
 
-- Représentez les envois des messages pour le cas d’utilisation « Rendre un devoir ». Une fonctionnalité que nous allons appeler « uploadDocument() » dans le système. 
+**Question 3 :** Représentez les envois des messages pour le cas d’utilisation « Rendre un devoir ». Une fonctionnalité que nous allons appeler « uploadDocument() » dans le système. 
 
-- Reprenez le diagramme de classes d’analyse et ajouter les comportements des objets que vous avez modélisés dans le diagramme de séquence.
+**Question 4 :** Reprenez le diagramme de classes d’analyse et ajouter les comportements des objets que vous avez modélisés dans le diagramme de séquence.
 
-- Modélisez les différents états-transitions des entités « Rendu » et « Participation ».
+**Question 5 :** Modélisez les différents états-transitions des entités « Rendu » et « Participation ».
 
-- Révisez encore une fois le diagramme de classes en prenant en compte les états-transitions des entités « Rendu » et « Participation ».
+**Question 6 :** Révisez encore une fois le diagramme de classes en prenant en compte les états-transitions des entités « Rendu » et « Participation ».
 
+Mettons maintenant en place une fabrique d'utilisateur.
+
+**Question 7 :**  Complétez le diagramme avec les classes concrètes "EtudiantCreator", "EnseignantCreator" et "AdminCreator" qui héritent de "UtilisateurCreator".
 
 ### Partie JAVA
 
 L'objectif de cette partie est d’implanter et de tester les différents diagrammes que vous avez réalisés dans la partie UML.
 
-- Reprenez vos diagrammes et implantez les différentes classes en commençant par les plus simples. Pour cela, générez automatiquement un premier jet du code à l’aide de starUML ; vérifiez le code comparant à votre conception et corriger si besoin ; compléter votre code. 
+**Question 8 :** Reprenez vos diagrammes et implantez les différentes classes en commençant par les plus simples. Pour cela, générez automatiquement un premier jet du code à l’aide de starUML ; vérifiez le code comparant à votre conception et corriger si besoin ; compléter votre code. 
 
-- Ajoutez une classe "App" avec un "main" pour effectuer vos premiers tests. Afin de tester, nous vous proposons de créer une instance avec un cours, 2 devoirs, un administrateur, 2 enseignants et 2 étudiants.
+**Question 9 :** Ajoutez une classe "App" avec un "main" pour effectuer vos premiers tests. Afin de tester, nous vous proposons de créer une instance avec un cours, 2 devoirs, un administrateur, 2 enseignants et 2 étudiants.
 
-- Ajoutez des tests unitaires pour la classe "Case".
+**Question 10 :** Ajoutez des tests unitaires pour la classe "Case".
 
