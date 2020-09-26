@@ -30,6 +30,7 @@ Nous souhaitons faire une analyse et une conception OO détaillées et sous diff
 
 * Toute personne a un nom, un prénom, une adresse postale et une adresse mail. Un étudiant possède un numéro d'étudiant. Un enseignant possède deux numéros (Numem et Harpège). Un devoir est caractérisé par un nom, une description, deadline et le nombre de points. Un certificat de participation est délivré à la fin de chaque cours avec un total des points et une appréciation.
 
+### Partie UML
 
 ### Phase 1 : Analyse
 
